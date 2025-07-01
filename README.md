@@ -37,7 +37,7 @@ cd backend
 
 ##  Related Repositories
 
-- Frontend (React): [https://chat-app-psi-seven-76.vercel.app/](https://github.com/priyanka0123456/chat-app)
+- Frontend (React): [chat-frontend](https://github.com/priyanka0123456/chat-app)
 
 
 
