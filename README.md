@@ -25,7 +25,7 @@ This is the backend server for a real-time chat application built using **Node.j
 - **WebSocket (ws)**
 - **MongoDB Atlas** (via **Mongoose**)
 - **UUID** for room ID generation
-- **CORS**, **dotenv** for configuration
+
 
 ##  Getting Started (Locally)
 
