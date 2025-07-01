@@ -163,7 +163,7 @@ function broadcastToRoom(roomId, payload) {
   });
 }
 
-t
+
 async function broadcastUserList(roomId) {
   const users = await User.find({ roomId }).select('username -_id');
   broadcastToRoom(roomId, {
