@@ -1,6 +1,6 @@
 #  Real-Time Chat App – Backend
 
-This is the backend server for a real-time chat application built using **Node.js**, **WebSocket**, and **MongoDB Atlas**. It powers features like group chats, private messaging, typing indicators, real-time updates, and more — just like WhatsApp!
+This is the backend server for a real-time chat application built using **Node.js**, **WebSocket**, and **MongoDB Atlas**. It powers features like group chats, private messaging, typing indicators, real-time updates, and more.
 
 ---
 
@@ -37,7 +37,7 @@ cd backend
 
 ##  Related Repositories
 
-- **Frontend (React)**: [chat-frontend](https://github.com/priyanka0123456/chat-app)
+- Frontend (React): [chat-frontend](https://github.com/priyanka0123456/chat-app)
 
 
 
