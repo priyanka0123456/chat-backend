@@ -1,0 +1,16 @@
+{
+  "name": "chat-backend",
+  "version": "1.0.0",
+  "description": "Backend for real-time chat app using Express and ws",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^7.8.7",
+    "uuid": "^11.1.0",
+    "ws": "^8.18.3"
+  }
+}
