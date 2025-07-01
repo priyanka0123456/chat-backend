@@ -34,6 +34,7 @@ This is the backend server for a real-time chat application built using **Node.j
 ```bash
 git clone https://github.com/priyanka0123456/chat-backend.git
 cd backend
+npm install
 
 ##  Related Repositories
 
